@@ -72,11 +72,11 @@
         },
 
         title: {
-            text: 'Highcharts item chart'
+            text: 'ระดับความพึงพอใจของการเรียน'
         },
 
         subtitle: {
-            text: 'Parliament visualization'
+            text: 'นาก นิสิต นางสาว ณหทัย เชิญรุ่งโรจน์'
         },
 
         legend: {
