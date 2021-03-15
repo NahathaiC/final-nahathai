@@ -56,10 +56,11 @@
     <figure class="highcharts-figure">
         <div id="container"></div>
         <p class="highcharts-description">
-            Chart showing representatives in the German Parliament. The chart is
-            using the <code>item</code> series type with a semi circle layout.
-            Item charts create a number of items corresponding to the value of
-            each data point.
+            ชาร์ตนี้จะเป็นการรีวิวการเรียนวิชาแพลตฟอร์มเทคโนโลยีตลอด 1 เทอมค่ะ
+            หนูชอบความตั้งใจในการสอนของอาจารย์มาก ๆเลยค่ะ ถึงแม้บางทีที่อาจารย์ถามแล้วเพื่อน ๆหรือตัวหนูเอง
+            ไม่ยอมตอบ อาจารย์ก็จะตอบให้ หรือบางทีก็เรียกรายคน ถ้าเป็นหนูเองคงมีแอบน้อยใจบ้างแล้วค่ะ นิสิตไม่เล่นด้วย แง
+            ขอบคุณอาจารย์ที่ตั้งใจสอนพวกเรานะคะ แต่ว่าอาจารย์คะ หนูไม่มีพื้นฐานเลยค่ะ 55555 หนูมาเริ่มเรียนไอทีก็ที่มหาลัยเลย
+            เพราะฉะนั้นอาจารย์อย่าคาดหวังกับตัวหนูเลยนะคะ แต่หนูจะพยายามเต็มที่ค่ะ T T
         </p>
     </figure>
 
