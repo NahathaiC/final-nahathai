@@ -72,11 +72,13 @@
         },
 
         title: {
+            src: url('fonts/FC Lamoon.ttf');
             text: 'ระดับความพึงพอใจของการเรียน'
         },
 
         subtitle: {
             text: 'จาก นิสิต นางสาว ณหทัย เชิญรุ่งโรจน์'
+            src: url('fonts/FC Lamoon.ttf');
         },
 
         legend: {
